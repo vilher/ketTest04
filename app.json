@@ -1,0 +1,11 @@
+{
+  "name": "kettest24",
+  "displayName": "kettest24",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "cfe0e99f-5b61-483a-98b2-e52d9bf44b94"
+      }
+    }
+  }
+}
